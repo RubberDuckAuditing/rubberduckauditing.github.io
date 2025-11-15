@@ -13,7 +13,7 @@ The rubber duck auditing method is as follows:
 
 **Note**: In a pinch a coworker might be able to substitute for the duck, however, it is often preferred to confide potential vulnerabilities to the duck instead of your coworker.
 
-_Original Credit_: Adapted from [rubberduckdebugging.com](https://rubberduckdebugging.com/)
+_Original Credit_: forked from [rubberduckdebugging.com](https://rubberduckdebugging.com/)
 
 ## FAQs
 
