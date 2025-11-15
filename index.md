@@ -18,7 +18,7 @@ _Original Credit_: forked from [rubberduckdebugging.com](https://rubberduckdebug
 ## FAQs
 
 - **If ducks are so smart, why don't we just let the ducks do all the auditing?**
-  It would be wonderful if this were true, but the fact is that most ducks prefer to take a mentoring role. There are a few ducks however that do choose to audit, but these are the ducks that nobody hears about because they are selected for secret government projects that are highly classified in nature.
+  While ducks are excellent listeners, smart contract auditing requires the human ability to think adversarially and question every assumption. The duck's real power lies in forcing you to articulate your security model out loud—it's during that explanation where you'll catch the edge cases, realize when your invariants can be broken, and spot the reentrancy vulnerabilities before an attacker does. The duck won't write the audit report, but it will help you find what goes in it.
 
 - **Where can I learn more about rubber duck auditing?**
   More information about the rubber duck method can be found at [wikipedia.org](http://en.wikipedia.org/wiki/Rubber_duck_debugging), [lists.ethernal.org](http://lists.ethernal.org/oldarchives/cantlug-0211/msg00174.html), and [codinghorror.com](https://blog.codinghorror.com/rubber-duck-problem-solving/). The technique applies perfectly to smart contract auditing.
