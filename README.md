@@ -1,3 +1,3 @@
-A tribute to the Rubber Duck Debugging method of debugging software.
+A tribute to the Rubber Duck Auditing method of auditing smart contracts.
 
-Visit: [rubberduckdebugging.com](https://rubberduckdebugging.com)
+Visit: [rubberduckauditing.github.io](rubberduckauditing.github.io)
