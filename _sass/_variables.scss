@@ -3,17 +3,6 @@
 // VARIABLES
 //
 
-// Colors
-$blue: #4183C4;
-
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
-
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -25,3 +14,42 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+// Light/Dark mode color variables
+:root {
+  // Light mode (default)
+  --bg-color: #fff;
+  --text-color: #333;
+  --text-light: #666;
+  --text-lighter: #999;
+  --heading-color: #222;
+  --border-color: #eee;
+  --link-color: #4183C4;
+  --footer-bg: #eee;
+  --selection-bg: #eee;
+  --selection-text: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #1a1a1a;
+    --text-color: #e0e0e0;
+    --text-light: #b0b0b0;
+    --text-lighter: #808080;
+    --heading-color: #f0f0f0;
+    --border-color: #333;
+    --link-color: #6ab0f3;
+    --footer-bg: #2a2a2a;
+    --selection-bg: #444;
+    --selection-text: #fff;
+  }
+}
+
+// Legacy color variables for backwards compatibility
+$blue: #4183C4;
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
