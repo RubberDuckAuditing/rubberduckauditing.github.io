@@ -24,7 +24,7 @@ _Original Credit_: forked from <a href="https://rubberduckdebugging.com/" target
   More information about the rubber duck method can be found at <a href="http://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank" rel="noopener noreferrer">wikipedia.org</a>, <a href="http://lists.ethernal.org/oldarchives/cantlug-0211/msg00174.html" target="_blank" rel="noopener noreferrer">lists.ethernal.org</a>, and <a href="https://blog.codinghorror.com/rubber-duck-problem-solving/" target="_blank" rel="noopener noreferrer">codinghorror.com</a>. The technique applies perfectly to smart contract auditing.
 
 - **Where can I hire my own duck?**
-  Great question! <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=rubber+duck" target="_blank" rel="noopener noreferrer">Amazon.com</a> hosts a wide selection of affordable ducks that have graduated with a security degree from some of the world's leading universities.
+  Great question! <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=rubber+duck" target="_blank" rel="noopener noreferrer">Amazon.com</a> hosts a wide selection of affordable ducks that have earned top placements in competitive audit contests.
 
 - **Why does this site exist?**
   Inspired by the classic rubber duck debugging technique from <a href="https://rubberduckdebugging.com/" target="_blank" rel="noopener noreferrer">rubberduckdebugging.com</a>, this site adapts the method for security auditing. Explaining your code's security assumptions to a duck is one of the most effective ways to find vulnerabilities before attackers do.
