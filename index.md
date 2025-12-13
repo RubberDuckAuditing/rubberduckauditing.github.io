@@ -13,6 +13,19 @@ The rubber duck auditing method is as follows:
 
 **Note**: In a pinch a coworker might be able to substitute for the duck, however, it is often preferred to confide potential vulnerabilities to the duck instead of your coworker.
 
+## The Questions
+
+For any piece of code you review—whether it's a function, contract, file, variable, or struct—explain to your duck:
+
+- **What** does this code do?
+- **Why** does it exist?
+- **How** does it do it?
+
+Then, challenge your assumptions:
+
+- **What** could go wrong?
+- **What if…?**
+
 ## FAQs
 
 - **If ducks are so smart, why don't we just let the ducks do all the auditing?**
