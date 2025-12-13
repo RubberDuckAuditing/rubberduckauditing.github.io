@@ -15,7 +15,7 @@ The rubber duck auditing method is as follows:
 
 ## The Questions
 
-For any piece of code you review—whether it's a function, contract, file, variable, or struct—explain to your duck:
+For any piece of code you review—whether it's a function, contract, file, variable, or struct—explain **out loud** to your duck:
 
 - **What** does this code do?
 - **Why** does it exist?
